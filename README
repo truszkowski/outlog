@@ -15,5 +15,5 @@
 
 -------------------------------------------------------------------------------
 
-Simple python script to log stdout and stderr in any console applications.
+Simple python script to log stdout and stderr for console applications.
 
